@@ -19,7 +19,7 @@ body{
 .bannar img{
     padding: 50px 240px 0px;
 }
-h1{
+.bannar h1{
     font-size: 80px;
     font-weight: 800;
     width: 708px;
@@ -156,4 +156,61 @@ span{
     justify-content: center;
     align-items: center;
     margin-bottom: 128px;
+}
+/* Get Latest News related style */
+.get-latest{
+    text-align: center;
+    background-image: url('images/footer-bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px 240px;
+}
+.get-latest h3{
+    padding-top: 122px;
+    font-size: 40px;;
+    font-weight: 800;
+}
+.mail-area{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+    padding: 48px 0px 121px 287px;
+}
+.unique-btn{
+    padding: 18px 31px;
+    margin-right: 287px;
+}
+input{
+    width: 700px;
+    height: 64px;
+    border: none;
+    font-size: 16px;
+    font-weight: 400;
+    color: #27272799;
+    padding: 23px 0px 22px 22px;
+    border-radius: 8px;
+    background: #FFF;
+}
+/* Footer related style */
+.footer-description{
+    text-align: center;
+    background: #111010;
+    margin-top: 128px;
+}
+.ft-h1{
+    font-size: 48px;
+    font-weight: 800;
+    color: white;
+    padding-top:128px ;
+}
+.footer-description p{
+    color: #ffffffe6;
+}
+.footer-description h3{
+    font-size: 16px;
+    color: #ffffff66;
+    font-weight: 400;
+    padding: 32px 0px 128px;
 }
