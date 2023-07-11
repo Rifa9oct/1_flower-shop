@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Belanosima', sans-serif;
+    font-family: 'Caprasimo', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Nanum Myeongjo', serif;
+    font-family: 'Raleway', sans-serif;
+}
+/* Bannar related style */
+.bannar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 240px;
+    background: rgba(229, 84, 115, 0.10);
+}
+.bannar img{
+    padding: 50px 240px 0px;
+}
+h1{
+    font-size: 80px;
+    font-weight: 800;
+    width: 708px;
+}
+.common-style{
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+}
+.bannar-text p{
+    padding: 32px 0px;
+}
+.primary-color{
+    border-radius: 8px;
+    padding: 20px 43px;
+    background: #E55473;
+    border: none;
+}
+.btn-text{
+    color: #FFF;
+    font-size: 20px;
+}
