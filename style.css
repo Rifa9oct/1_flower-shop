@@ -94,3 +94,34 @@ h4{
 .flower-3 img{
     padding: 67px 75px;
 }
+/* Optional section related style */
+.optional-sec{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 86px 175px 87px;
+    margin: 128px 240px;
+    border-radius: 8px;
+    background: #2727270d;
+}
+.logo-1 img{
+    padding-left: 142px;
+}
+.logo-1{
+    padding-right: 50px;
+}
+.logo-2{
+    padding-right: 42px;
+}
+.logo-2 img{
+    padding-left: 114px;
+}
+.logo-3 img{
+    padding-left: 57px;
+}
+.opt-sec-h3{
+    color: #272727cc;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+}
