@@ -42,3 +42,55 @@ h1{
     color: #FFF;
     font-size: 20px;
 }
+/* Bonus section related style */
+h2{
+    margin: 178px 0px 40px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+}
+h4{
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.flower{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.flower-1{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;    
+    background: #a7216226;       
+}
+.flower-1 img{
+    padding: 110px 78px 0px;
+}
+.flower-2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: #0597a026;
+}
+.flower-2 img{
+    padding: 117px 47px 51px;
+}
+.flower-3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: #477d1126;
+}
+.flower-3 img{
+    padding: 67px 75px;
+}
