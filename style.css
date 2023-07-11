@@ -125,3 +125,21 @@ h4{
     font-size: 24px;
     font-weight: 600;
 }
+/* Hot deals related style */
+.hot-deals{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 8px;
+    background: #e554730d;
+}
+.hot-deals-text{
+    text-align: center;
+    padding-top: 150px;
+}
+.hot-btn{
+    margin: 32px 0px 128px;
+}
+span{
+    color: #E55473;
+}
