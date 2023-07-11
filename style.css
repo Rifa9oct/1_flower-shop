@@ -24,7 +24,7 @@ h1{
     font-weight: 800;
     width: 708px;
 }
-.common-style{
+p{
     color: #27272799;
     font-size: 18px;
     font-weight: 400;
@@ -142,4 +142,18 @@ h4{
 }
 span{
     color: #E55473;
+}
+/* Instagram related style */
+.insta-text{
+    text-align: center;
+}
+.insta-text p{
+    padding-bottom: 48px;
+}
+.insta-pic{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 128px;
 }
